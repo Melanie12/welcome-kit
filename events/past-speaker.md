@@ -6,6 +6,8 @@ Feel free to contact them for speaking opportunities.
 
 The list is ordered chronologically, descending.
 
+> If you are on this list and wish to be deleted, please open an issue on Github: https://github.com/ladiesOfCodeParis/welcome-kit/issues 
+
 ## 2025
 
 - **Delphine Rigaud** & **Laurine Lenet**, Développeuses Full Stack chez Takima – “Nous non plus, on y croyait pas à nos projets perso” 🇫🇷  
